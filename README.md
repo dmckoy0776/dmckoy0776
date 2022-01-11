@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating virtual adventures
 - 🌱 I’m currently learning complex Angular and cloud deployment
 - 💞️ I’m looking to collaborate on learning media and/or interactive web games
-- 📫 How to reach me:  best to email ___________
+- 📫 How to reach me:  LinkedIn https://www.linkedin.com/in/denee-mckoy/
 
 <!---
 dmckoy0776/dmckoy0776 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
